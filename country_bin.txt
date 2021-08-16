@@ -1,0 +1,14 @@
+KNeighborsClassifier: Modellen scorer -0.60  Parametre:{'model__n_neighbors': 7}
+GaussianNB: Modellen scorer -0.61  Parametre:{}
+RandomForestClassifier: Modellen scorer -0.58  Parametre:{'model__n_estimators': 50}
+KNeighborsClassifier: Modellen scorer -0.60  Parametre:{'model__n_neighbors': 11}
+GaussianNB: Modellen scorer -0.62  Parametre:{}
+RandomForestClassifier: Modellen scorer -0.58  Parametre:{'model__n_estimators': 30}
+KNeighborsClassifier: Modellen scorer -0.60  Parametre:{'model__n_neighbors': 11}
+GaussianNB: Modellen scorer -0.62  Parametre:{}
+RandomForestClassifier: Modellen scorer -0.58  Parametre:{'model__n_estimators': 30}
+LinearSVC: Modellen scorer -0.65  Parametre:{'model__C': 1.0}
+KNeighborsClassifier: Modellen scorer -0.65  Parametre:{'model__n_neighbors': 13}
+GaussianNB: Modellen scorer -0.66  Parametre:{}
+RandomForestClassifier: Modellen scorer -0.66  Parametre:{'model__n_estimators': 30}
+LinearSVC: Modellen scorer -0.67  Parametre:{'model__C': 0.005}
