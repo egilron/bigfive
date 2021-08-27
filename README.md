@@ -25,3 +25,4 @@ GradientBoostingRegressor : Modellen estmierer i snitt 5.9 år feil i alder. Par
 LinearSVR : Modellen estmierer i snitt 6.0 år feil i alder. Parametre: {'model__C': 1.0, 'model__epsilon': 0.0, 'model__tol': 0.0001}
 SVR : Modellen estmierer i snitt 5.8 år feil i alder. Parametre: {'model__C': 5, 'model__kernel': 'rbf'}
 ```
+In [big5_reg_kategoriske_x](https://github.com/egilron/bigfive/blob/main/big5_reg_kategoriske_x.ipynb) I explore more scikit-learn preprocessing, and adding categorical data to X.
